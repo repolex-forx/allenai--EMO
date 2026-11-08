@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "EMO",
+  "versions": [
+    {
+      "commit": "246fdec72e599319c717aefe29a1d1fdad7c97a0",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:38:42.412467+00:00"
+    }
+  ]
+}
