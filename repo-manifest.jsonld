@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/EMO/commit/246fdec72e599319c717aefe29a1d1fdad7c97a0",
       "git:hexsha": "246fdec72e599319c717aefe29a1d1fdad7c97a0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T16:38:42.411878+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/EMO/commit/910a0d79f496320309f2cc297f514070157498d1",
